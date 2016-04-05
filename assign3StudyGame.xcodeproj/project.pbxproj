@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE7F60BD1CAB1921002A2542 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7F60BC1CAB1921002A2542 /* SecondViewController.swift */; };
+		CE7F60BF1CAB19D2002A2542 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7F60BE1CAB19D2002A2542 /* ThirdViewController.swift */; };
 		CEACAA571CA9A61900B764D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEACAA561CA9A61900B764D0 /* AppDelegate.swift */; };
 		CEACAA591CA9A61900B764D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEACAA581CA9A61900B764D0 /* ViewController.swift */; };
 		CEACAA5C1CA9A61900B764D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEACAA5A1CA9A61900B764D0 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE7F60BC1CAB1921002A2542 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		CE7F60BE1CAB19D2002A2542 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		CEACAA531CA9A61900B764D0 /* assign3StudyGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = assign3StudyGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEACAA561CA9A61900B764D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEACAA581CA9A61900B764D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +60,9 @@
 			children = (
 				CEACAA561CA9A61900B764D0 /* AppDelegate.swift */,
 				CEACAA581CA9A61900B764D0 /* ViewController.swift */,
+				CE7F60BC1CAB1921002A2542 /* SecondViewController.swift */,
 				CEACAA5A1CA9A61900B764D0 /* Main.storyboard */,
+				CE7F60BE1CAB19D2002A2542 /* ThirdViewController.swift */,
 				CEACAA5D1CA9A61900B764D0 /* Assets.xcassets */,
 				CEACAA5F1CA9A61900B764D0 /* LaunchScreen.storyboard */,
 				CEACAA621CA9A61900B764D0 /* Info.plist */,
@@ -137,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEACAA591CA9A61900B764D0 /* ViewController.swift in Sources */,
+				CE7F60BD1CAB1921002A2542 /* SecondViewController.swift in Sources */,
+				CE7F60BF1CAB19D2002A2542 /* ThirdViewController.swift in Sources */,
 				CEACAA571CA9A61900B764D0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +297,7 @@
 				CEACAA671CA9A61900B764D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -20,6 +20,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func reviewButton(sender: UIButton) {
+    }
 
+    @IBAction func challengeButton(sender: UIButton) {
+    }
+    @IBAction func rulesButton(sender: UIButton) {
+    }
 }
 
